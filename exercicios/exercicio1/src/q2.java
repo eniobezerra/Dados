@@ -2,7 +2,8 @@
 import java.util.Scanner;
 //Enio Ramos 
 public class q2 {
-
+3
+3
    
     public static void main(String[] args) {
        Scanner entrada = new Scanner(System.in);
